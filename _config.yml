@@ -1,9 +1,9 @@
 ###########################################################
 # Name of website
-title: Joe's Space
+title: Heming Zhou | Data-Driven Healthcare Professional
 
 # Your name to show in the footer  
-author: Joe Zhou
+author: Heming Zhou
 
 ###############################################
 # List of links in the navigation bar
@@ -23,7 +23,7 @@ social-network-links:
   rss: true
 
 # RSS feed description
-rss-description: Joe's personal website
+rss-description: Personal website of Heming Zhou
 
 ###########################
 # General options
@@ -51,20 +51,41 @@ post_search: true
 edit_page_button: true
 
 ######################################
-# Colours
+# Professional Dark Theme - Financial Elite Style
 ######################################
 
+# Page background - clean white
 page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+
+# Primary text - dark charcoal for professionalism
+text-col: "#2C3E50"
+
+# Link color - sophisticated navy blue
+link-col: "#1A5276"
+
+# Hover color - elegant gold accent
+hover-col: "#B7950B"
+
+# Navigation bar - dark professional
+navbar-col: "#1A252F"
+
+# Navigation text - light for contrast
+navbar-text-col: "#ECF0F1"
+
+# Navigation border
+navbar-border-col: "#2C3E50"
+
+# Footer - dark professional
+footer-col: "#1A252F"
+
+# Footer text
+footer-text-col: "#BDC3C7"
+
+# Footer links
+footer-link-col: "#ECF0F1"
+
+# Footer hover - gold accent
+footer-hover-col: "#B7950B"
 
 ################
 # Misc

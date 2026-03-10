@@ -1,29 +1,71 @@
 ---
 layout: page
 title: About Me
-subtitle: Data Analyst & Healthcare Intelligence Professional
+subtitle: Data-Driven Healthcare Professional | Project Manager
 ---
 
-Hi, I'm **Heming Zhou** (Joe). I'm a data professional passionate about turning complex data into actionable insights.
+I'm **Heming Zhou (Joe)**, a results-driven professional specializing in data analytics and project management in the healthcare and life sciences industry.
 
-### 👨‍💼 Professional Background
+---
 
-- **Currently**: Working at **Zhongguancun Academy** (中关村 Academy), focusing on data-driven healthcare solutions
-- **Previously**: Data Analyst at **IQVIA**, a leading global provider of advanced analytics and healthcare research
+## 📚 Education
 
-### 🛠 Skills & Expertise
+| Period | University | Degree |
+|--------|------------|--------|
+| 2014 - 2018 | **China Agricultural University** (中国农业大学) | Bachelor's |
+| 2018 - 2020 | **Wageningen University** (荷兰瓦赫宁根大学) | Master's |
 
-- Data Analysis & Visualization
-- Healthcare Analytics
-- Python & R Programming
-- Machine Learning Applications
+---
 
-### 📚 Education
+## 💼 Work Experience
 
-- Bachelor's degree in a relevant field (Healthcare/Statistics/Computer Science)
+### 2025 - Present | Project Manager
+**Zhongguan AI Research Institute** (中关村人工智能研究院)
+- Leading AI-driven healthcare projects
+- Cross-functional team management
+- Strategic partnership development
 
-### 🤝 Let's Connect
+### 2024 - 2025 | Project Set-up Manager
+**IQVIA** (艾昆纬)
+- Managed project setup and implementation for North America
+- Client relationship management
+- Team coordination across global offices
 
-Feel free to reach out via [email](mailto:hemingzhouhans@hotmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/heming-zhou/).
+### 2022 - 2024 | North America Product Manager
+**Novogene** (北京诺禾致源)
+- Developed and managed product strategy for North American market
+- Led market expansion initiatives
+- Coordinated between R&D and commercial teams
 
-I'm always interested in exploring new opportunities in data science and healthcare analytics. Let's chat!
+### 2021 - 2022 | Data Analyst
+**Novogene** (北京诺禾致源)
+- Analyzed large-scale genomic data
+- Developed data pipelines and visualization tools
+- Supported research and clinical projects
+
+---
+
+## 🌍 International Experience
+
+- **2023**: UC Davis Exchange Program (美国加州大学戴维斯分校交流学习)
+- **2023**: Attended AACR Conference (北美肿瘤研究协会年会)
+
+---
+
+## 🛠 Skills & Expertise
+
+- **Data Analytics**: Python, R, SQL, Machine Learning
+- **Project Management**: Agile, Cross-functional Leadership
+- **Healthcare Domain**: Genomics, Clinical Research, Pharmaceutical
+- **Languages**: Chinese (Native), English (Professional)
+
+---
+
+## 📫 Let's Connect
+
+- 📧 [hemingzhouhans@hotmail.com](mailto:hemingzhouhans@hotmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/heming-zhou/)
+- 🐙 [GitHub](https://github.com/zhoujoe2014)
+
+---
+*Passionate about leveraging data to drive innovation in healthcare*
