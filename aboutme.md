@@ -108,7 +108,7 @@ _2021年 - 2022年_
 
 ## 📫 联系我
 
-- 📧 [hemingzhouhans@hotmail.com](mailto:hemingzhouhans@hotmail.com)
+- 📧 [v-zhm@zgci.ac.cn](mailto:v-zhm@zgci.ac.cn)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/heming-zhou/)
 - 🐙 [GitHub](https://github.com/zhoujoe2014)
 
