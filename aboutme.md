@@ -1,71 +1,71 @@
 ---
 layout: page
-title: About Me
-subtitle: Data-Driven Healthcare Professional | Project Manager
+title: 关于我
+subtitle: 数据驱动医疗健康从业者
 ---
 
-I'm **Heming Zhou (Joe)**, a results-driven professional specializing in data analytics and project management in the healthcare and life sciences industry.
-
----
-
-## 📚 Education
-
-| Period | University | Degree |
-|--------|------------|--------|
-| 2014 - 2018 | **China Agricultural University** (中国农业大学) | Bachelor's |
-| 2018 - 2020 | **Wageningen University** (荷兰瓦赫宁根大学) | Master's |
+我是**周鹤鸣（Heming Zhou / Joe）**，专注于数据分析和项目管理领域的医疗健康行业从业者。
 
 ---
 
-## 💼 Work Experience
+## 📚 教育背景
 
-### 2025 - Present | Project Manager
-**Zhongguan AI Research Institute** (中关村人工智能研究院)
-- Leading AI-driven healthcare projects
-- Cross-functional team management
-- Strategic partnership development
-
-### 2024 - 2025 | Project Set-up Manager
-**IQVIA** (艾昆纬)
-- Managed project setup and implementation for North America
-- Client relationship management
-- Team coordination across global offices
-
-### 2022 - 2024 | North America Product Manager
-**Novogene** (北京诺禾致源)
-- Developed and managed product strategy for North American market
-- Led market expansion initiatives
-- Coordinated between R&D and commercial teams
-
-### 2021 - 2022 | Data Analyst
-**Novogene** (北京诺禾致源)
-- Analyzed large-scale genomic data
-- Developed data pipelines and visualization tools
-- Supported research and clinical projects
+| 时间 | 学校 | 学位 |
+|------|------|------|
+| 2014 - 2018 | **中国农业大学** | 学士 |
+| 2018 - 2020 | **荷兰瓦赫宁根大学** | 硕士 |
 
 ---
 
-## 🌍 International Experience
+## 💼 工作经历
 
-- **2023**: UC Davis Exchange Program (美国加州大学戴维斯分校交流学习)
-- **2023**: Attended AACR Conference (北美肿瘤研究协会年会)
+### 2025年 - 至今 | 项目经理
+**中关村人工智能研究院**
+- 负责人工智能驱动医疗项目
+- 跨部门团队协调管理
+- 战略合作伙伴开发
+
+### 2024年 - 2025年 | 项目 Set-up Manager
+**IQVIA（艾昆纬）**
+- 负责北美区项目启动与管理
+- 客户关系维护
+- 全球团队协作
+
+### 2022年 - 2024年 | 北美区产品经理
+**北京诺禾致源科技股份有限公司**
+- 制定并执行北美市场产品策略
+- 带领市场拓展
+- 协调研发与商务团队
+
+### 2021年 - 2022年 | 数据分析师
+**北京诺禾致源科技股份有限公司**
+- 大规模基因组数据分析
+- 数据流程与可视化工具开发
+- 支持科研与临床项目
 
 ---
 
-## 🛠 Skills & Expertise
+## 🌍 国际交流经历
 
-- **Data Analytics**: Python, R, SQL, Machine Learning
-- **Project Management**: Agile, Cross-functional Leadership
-- **Healthcare Domain**: Genomics, Clinical Research, Pharmaceutical
-- **Languages**: Chinese (Native), English (Professional)
+- **2023年**：美国加州大学戴维斯分校（UC Davis）交流学习
+- **2023年**：参加北美AACR肿瘤研究协会年会
 
 ---
 
-## 📫 Let's Connect
+## 🛠 专业技能
+
+- **数据分析**：Python、R、SQL、机器学习
+- **项目管理**：敏捷管理、跨团队领导力
+- **行业领域**：基因组学、临床研究、制药
+- **语言能力**：中文（母语）、英语（专业）
+
+---
+
+## 📫 联系我
 
 - 📧 [hemingzhouhans@hotmail.com](mailto:hemingzhouhans@hotmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/heming-zhou/)
 - 🐙 [GitHub](https://github.com/zhoujoe2014)
 
 ---
-*Passionate about leveraging data to drive innovation in healthcare*
+*致力于用数据驱动医疗健康创新*

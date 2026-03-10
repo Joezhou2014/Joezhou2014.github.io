@@ -1,16 +1,22 @@
 ###########################################################
 # Name of website
-title: Heming Zhou | Data-Driven Healthcare Professional
+title: 周鹤鸣 | 数据驱动医疗健康
 
 # Your name to show in the footer  
-author: Heming Zhou
+author: 周鹤鸣 (Joe Zhou)
+
+###############################################
+# Avatar - profile picture
+###############################################
+avatar: "/assets/img/avatar.jpg"
+round-avatar: true
 
 ###############################################
 # List of links in the navigation bar
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  关于我: "aboutme"
 
 #####################################
 # Footer social media links
@@ -23,7 +29,7 @@ social-network-links:
   rss: true
 
 # RSS feed description
-rss-description: Personal website of Heming Zhou
+rss-description: 周鹤鸣的个人网站
 
 ###########################
 # General options
@@ -91,11 +97,11 @@ footer-hover-col: "#B7950B"
 # Misc
 ################
 
-date_format: "%B %-d, %Y"
+date_format: "%Y年%m月%d日"
 
 #################################################################################
 
-timezone: "America/Toronto"
+timezone: "Asia/Shanghai"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
